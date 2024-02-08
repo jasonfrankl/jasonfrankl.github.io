@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: white;
+    color: black;
+}
+
+.resume {
+    max-width: 800px;
+    margin: auto;
+}
+
+.header h1 {
+    font-size: 24px;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+.contact-info p {
+    font-size: 12px;
+}
+
+section h2 {
+    background: #333;
+    color: white;
+    padding: 5px;
+    font-size: 18px;
+}
+
+section p, li {
+    font-size: 12px;
+}
+
+.courses-skills {
+    display: flex;
+    justify-content: space-between;
+}
+
+.courses, .skills {
+    width: 48%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+h3 {
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.activities {
+    margin-top: 20px;
+}
+
+/* Add any additional styles that you see necessary to match the PDF's look */
