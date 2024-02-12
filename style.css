@@ -32,6 +32,12 @@ section p, li {
     font-size: 12px;
 }
 
+.projects a:hover {
+    background-color: #a9a9a9; /* Replace #darkerColor with the actual color you want */
+    color: #00008b; /* Optional: Change text color on hover if needed */
+    text-decoration: none; /* Optional: Removes underline on hover */
+}
+
 .courses-skills {
     display: flex;
     justify-content: space-between;
