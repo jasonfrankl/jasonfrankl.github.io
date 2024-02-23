@@ -47,12 +47,12 @@ section p, li {
     width: 48%;
 }
 
-.work-experience ul {
+.work-experience ul, .activities ul {
     list-style-type: disc; 
-    margin-left: 20px;
+    padding-left: 20px; 
 }
 
-.work-experience li {
+.work-experience li, .activities li {
     margin-bottom: 5px; 
 }
 
@@ -65,14 +65,3 @@ h3 {
     font-size: 14px;
     margin-top: 10px;
 }
-
-.activities ul {
-    list-style-type: disc; 
-    margin-left: 20px;
-}
-
-.activities li {
-    margin-bottom: 5px; 
-}
-
-/* Add any additional styles that you see necessary to match the PDF's look */
