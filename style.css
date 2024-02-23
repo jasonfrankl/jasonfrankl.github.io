@@ -47,6 +47,15 @@ section p, li {
     width: 48%;
 }
 
+.work-experience ul {
+    list-style-type: disc; /* This will ensure bullet points are shown */
+    margin-left: 20px; /* This adds some space before the bullet points */
+}
+
+.work-experience li {
+    margin-bottom: 5px; /* This adds some space between the bullet points */
+}
+
 ul {
     list-style-type: none;
     padding: 0;
