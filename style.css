@@ -48,12 +48,12 @@ section p, li {
 }
 
 .work-experience ul {
-    list-style-type: disc; /* This will ensure bullet points are shown */
-    margin-left: 20px; /* This adds some space before the bullet points */
+    list-style-type: disc; 
+    margin-left: 20px;
 }
 
 .work-experience li {
-    margin-bottom: 5px; /* This adds some space between the bullet points */
+    margin-bottom: 5px; 
 }
 
 ul {
@@ -66,8 +66,13 @@ h3 {
     margin-top: 10px;
 }
 
-.activities {
-    margin-top: 20px;
+.activities ul {
+    list-style-type: disc; 
+    margin-left: 20px;
+}
+
+.activities li {
+    margin-bottom: 5px; 
 }
 
 /* Add any additional styles that you see necessary to match the PDF's look */
