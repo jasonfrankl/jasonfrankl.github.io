@@ -37,6 +37,11 @@ section p, li {
     color: #00008b; /* Optional: Change text color on hover if needed */
     text-decoration: none; /* Optional: Removes underline on hover */
 }
+.highlight-project {
+    font-weight: bold;
+    font-size: 14px; /* Adjust the size as needed */
+}
+
 
 .courses-skills {
     display: flex;
