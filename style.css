@@ -32,16 +32,11 @@ section p, li {
     font-size: 12px;
 }
 
-.projects a:hover {
-    background-color: #a9a9a9; /* Replace #darkerColor with the actual color you want */
-    color: #00008b; /* Optional: Change text color on hover if needed */
-    text-decoration: none; /* Optional: Removes underline on hover */
-}
-.highlight-project {
-    font-weight: bold;
-    font-size: 14px; /* Adjust the size as needed */
-}
 
+.project-title-bold {
+    font-weight: bold;
+    font-size: 14px; /* or whatever size you feel is slightly bigger */
+}
 
 .courses-skills {
     display: flex;
