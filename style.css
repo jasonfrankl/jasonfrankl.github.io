@@ -61,6 +61,10 @@ ul {
     padding: 0;
 }
 
+.bold-text {
+    font-weight: bold;
+}
+
 h3 {
     font-size: 14px;
     margin-top: 10px;
